@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Paastore</string>
+    <string name="error_server">Error al conectarse con el servidor</string>
+    <string name="offline">No hay conexión a internet, se muestran datos guardados previamente</string>
+
+    <!--Splash-->
+    <string name="tv_2">Top 20 de aplicaciones gratis en el AppStore</string>
+    <string name="tv_3">Paastore (sí, parodia de AppStore) muestra el top 20 de las aplicaciones más descargadas en el AppStore de iOS, en Colombia.
+        Muestra toda la información de la app, y permite acceder directamente a la web en el AppStore.
+
+       \n\nEl esquema de colores escogido es una paleta tomada del Flat Desgign, con patrones y parámetros de diseño usados en Material Design,
+        elementos tipo CardView, elevación en los ítems, combinación de colores, efectos de ondas, animaciones en transiciones y toolbars con efecto parallax
+        son algunos de estos items.
+
+        \n\nDesarrollado por Leonardo Sapuy (LeoSap) como prueba para el cargo de Android Developer en Grability
+
+        \n\nEnero de 2017
+
+    </string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_info">Acerca de</string>
+
+    <string name="transition_image">tr_image</string>
+
+    <string name="image_desc">Imagen de la aplicación</string>
+
+    <string name="double_back_exit">Presiona nuevamente para salir</string>
+
+    <string name="price_free">Gratis</string>
+
+
+</resources>
