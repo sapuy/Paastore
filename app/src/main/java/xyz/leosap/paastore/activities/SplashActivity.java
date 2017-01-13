@@ -30,7 +30,6 @@ public class SplashActivity extends AppCompatActivity {
     private TextView tv1;
     private TextView tv2;
     private ImageView iv1;
-    private boolean connected;
     private int flag;//1 Estado inicial
 
     @Override
@@ -42,7 +41,7 @@ public class SplashActivity extends AppCompatActivity {
         tv2 = (TextView) findViewById(R.id.textView2);
         iv1 = (ImageView) findViewById(R.id.imageView2);
 
-        connected = false;
+        boolean connected = false;
         connected = Functions.isConnected(this);
 
         if (connected) {
