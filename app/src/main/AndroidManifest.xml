@@ -41,7 +41,7 @@
             android:label="@string/title_activity_info">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".activities.MainActivity" />
+                android:value="xyz.leosap.paastore.activities.MainActivity" />
         </activity>
 
     </application>
